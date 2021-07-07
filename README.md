@@ -1,2 +1,1 @@
-# Admin-System-Tutorial
- 
+Watch tutorial @ https://youtu.be/PANYHOQU0G4 
